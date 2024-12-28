@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mynginx:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2024-12-28T16:48:24.473562121+07:00"
+    description: A Helm chart ngixn
+    digest: 923102fbf17ba2f55e8049f96f2d62ec065e47ee7264e3520b3ef6e1c3e77558
+    name: mynginx
+    type: application
+    urls:
+    - publish/mynginx-0.1.0.tgz
+    version: 0.1.0
+  mynginx-v2:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2024-12-28T16:48:24.473976797+07:00"
+    description: A Helm chart ngixn-v2
+    digest: 6f03fc8ada8fd70494235bd4867e5f9c3c5f0129c3b1b78f239ee5cc76172469
+    name: mynginx-v2
+    type: application
+    urls:
+    - publish/mynginx-v2-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-28T16:48:24.473049666+07:00"

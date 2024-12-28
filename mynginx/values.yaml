@@ -1,0 +1,4 @@
+image: nginx:latest
+port: 80
+replicas: 2
+identity_key: haha
